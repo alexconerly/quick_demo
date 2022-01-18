@@ -1,0 +1,704 @@
+.STM_logo_for_website {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  margin: -200px 0px -90px 0px;
+}
+
+.STM_logo_for_website img {
+  width: 520px;
+  height: 500px;
+}
+
+.first_banner_text_for_website {
+  background-color: #005f9f;
+  color: white;
+  text-align: center;
+  font-size: 26px;
+  margin: -130px 170px -70px 170px;
+  padding: 9px;
+  font-weight: bold;
+  z-index: 2;
+  position: relative;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.Customer_logo_image_for_website {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  margin: -80px 0px -80px 0px;
+}
+
+.Customer_logo_image_for_website img {
+  height: 380px;
+  width: 380px;
+}
+
+.second_banner_text_for_website {
+  background-color: #005f9f;
+  color: white;
+  text-align: center;
+  font-size: 26px;
+  margin: -10px 170px -20px 170px;
+  padding: 9px;
+  font-weight: bold;
+  z-index: 2;
+  position: relative;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.vendors_and_bandag_logo_container_for_website {
+  text-align: center;
+  width: 100%;
+}
+
+.Bridgestone_logo_for_website {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 280px;
+  height: 140px;
+  margin: -1px 20px 0px 0px;
+}
+
+.Continental_logo_for_website {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 290px;
+  height: 210px;
+  margin: -30px 0px 0px 20px;
+  z-index: -100px;
+}
+
+.Yokohama_logo_for_Website {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 270px;
+  height: 45px;
+  margin: -70px 50px 0px -40px;
+}
+
+.bandag_logo_for_website {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 200px;
+  height: 200px;
+  margin: -90px 0px 0px 0px;
+}
+
+.bridgestone_logo_for_website {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 280px;
+  height: 100px;
+  margin-right: 40px;
+}
+
+.bandag_logo_for_website_IF-ODD-NUMBER-OF-VENDORS {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 200px;
+  height: 180px;
+  margin-left: 40px;
+  margin-top: -70px;
+}
+
+.title_for_website {
+  color: #150400;
+  text-align: center;
+}
+
+.page_title_for_website {
+  color: #1d0e0b;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.page_title_smaller_for_website {
+  color: #351C15;
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  border: 0px solid black;
+  width: 100%;
+  border-color: black;
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+.squish_table th, .squish_table td {
+  padding: 2px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+.make_table_smaller_for_website {
+  margin: -30px, 0px, 0px, 0px;
+  font-size: 10px;
+}
+
+.header_for_website {
+  background-color: #005f9f;
+  color: white;
+  font-size: 18px;
+}
+
+.black_color_for_website {
+  background-color: black;
+}
+
+.numbers_for_website {
+  text-align: center;
+}
+
+.text_column_for_website {
+  font-size: 15px;
+  padding: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center_for_website {
+  text-align: center;
+}
+
+.right_align_for_website {
+  text-align: right;
+}
+
+.left_align_for_website {
+  text-align: left;
+}
+
+.make_white_for_website {
+  background-color: white;
+}
+
+.number_column_for_website {
+  text-align: right;
+}
+
+.nrt_graph_for_website {
+  text-align: center;
+}
+
+.nrt_graph_for_website img {
+  width: 1400px;
+  height: 800px;
+}
+
+.nrt_graph_SUMMARY_for_website {
+  text-align: center;
+}
+
+.nrt_graph_SUMMARY_for_website img {
+  width: 1400px;
+  height: 935px;
+}
+
+.main_table_line_graphs_for_website {
+  text-align: center;
+  margin: 50px;
+}
+
+.main_table_line_graphs_for_website img {
+  width: 1200px;
+  height: 675px;
+}
+
+.sales_percentage_breakdown_bar_for_website {
+  text-align: center;
+}
+
+.sales_percentage_breakdown_bar_for_website img {
+  width: 980px;
+  height: 600px;
+  text-align: center;
+}
+
+.NRT_year_to_year_line_graph_for_website {
+  text-align: center;
+  margin: -10px;
+  padding: 0px;
+}
+
+.NRT_year_to_year_line_graph_for_website img {
+  width: 1445px;
+  height: 1330px;
+}
+
+.NRT_header_for_website {
+  font-size: 18px;
+  padding: 1px;
+}
+
+.NRT_text_column_for_website {
+  font-size: 16px;
+  padding: 2px;
+}
+
+.make_text_white_for_website {
+  color: white;
+}
+
+.make_text_black_for_website {
+  color: black;
+}
+
+.make_bold_for_website {
+  font-weight: bold;
+}
+
+.download_button_for_website {
+  background-color: customer_color_1;
+  border: none;
+  color: #005f9f;
+  padding: 14px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 10px 10px 465px;
+}
+
+.scrap_summary_table_heading_for_website {
+  text-align: center;
+}
+
+.navbar_adjust_behind_STM_image_for_website {
+  position: absolute;
+  z-index: 1;
+}
+
+.gold_color_for_website {
+  background-color: #FFC220;
+}
+
+.sales_by_store_table_header_for_website {
+  background-color: #005f9f;
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
+
+.ROWS_format_category_headers_for_sales_by_store_table_for_website {
+  background-color: #A6ACAF;
+  color: white;
+  text-align: left;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.format_SUBcategory_rows_for_sales_by_store_table_for_website {
+  font-size: 14px;
+  text-align: right;
+  width: 220px;
+}
+
+.page_title_for_Sales_by_Store_for_website {
+  color: #1d0e0b;
+  text-align: center;
+  font-size: 46px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.page_title_smaller_for_Sales_by_Store_for_website {
+  color: #1d0e0b;
+  text-align: center;
+  font-size: 42px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.customer_color_1_background_for_website {
+  background-color: #005f9f;
+}
+
+.nav_bar_for_website {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin: 22px 12px;
+  font-size: 0px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+}
+
+nav ul li {
+  float: center;
+  list-style: none;
+  position: relative;
+}
+
+nav ul li a {
+  display: block;
+  font-size: 16px;
+  padding: 0px 0px 0px 0px;
+  text-decoration: none;
+}
+
+nav ul li ul {
+  display: none;
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.952);
+  padding: 10px;
+  border-radius: 0px 0px 0px 0px;
+  z-index: 10;
+  font-weight: bold;
+}
+
+nav ul li:hover ul {
+  display: block;
+}
+
+nav ul li ul li {
+  width: 230px;
+  height: 0px 0px 0px 0px;
+  border-radius: 1px;
+  padding: 15px 3px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+nav ul li ul li a {
+  padding: 0px 0px 0px 0px;
+}
+
+nav ul li ul li a:hover {
+  background-color: #f3f3f3;
+}
+
+.customer_color_2_background_for_website {
+  background-color: #A6ACAF;
+}
+
+.notes_about_data_downloads {
+  color: #1d0e0b;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.instruction_notes_for_graph_interaction {
+  color: #1d0e0b;
+  text-align: center;
+  font-size: 12px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.bullet_points {
+  color: #1d0e0b;
+  text-align: right;
+  font-size: 12px;
+}
+
+.STM_logo_for_pdf {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  margin: -116px;
+}
+
+.STM_logo_for_pdf img {
+  width: 1400px;
+  height: 700px;
+}
+
+.first_banner_text_for_pdf {
+  background-color: #005f9f;
+  color: white;
+  text-align: center;
+  text-align: center;
+  font-size: 63px;
+  margin: 10px 40px -10px 40px;
+  padding: 40px;
+  font-weight: bold;
+}
+
+.Customer_logo_image_for_pdf {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+.Customer_logo_image_for_pdf img {
+  height: 790px;
+  width: 790px;
+  margin: -260px 0px -260px 0px;
+}
+
+.second_banner_text_for_pdf {
+  background-color: #005f9f;
+  color: white;
+  text-align: center;
+  font-size: 62px;
+  margin: 0px 40px 20px 40px;
+  padding: 50px;
+  font-weight: bold;
+}
+
+.district_title_for_pdf {
+  color: customer_color_1;
+  background-color: customer_color_2;
+  text-align: center;
+  font-size: 60px;
+  margin: 30px 40px 40px 40px;
+  padding: 30px;
+  font-style: italic;
+  font-family: 'Arial';
+}
+
+.vendors_and_bandag_logo_container_for_pdf {
+  text-align: center;
+  width: 100%;
+}
+
+.Bridgestone_logo_for_pdf {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 410px;
+  height: 300px;
+  margin: 0px 20px 0px 0px;
+}
+
+.Continental_logo_for_pdf {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 470px;
+  height: 400px;
+  margin: 0px 0px 0px 20px;
+  z-index: -100px;
+}
+
+.Yokohama_logo_for_pdf {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 420px;
+  height: 80px;
+  margin: -80px 150px 0px 0px;
+}
+
+.bandag_logo_for_pdf {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 320px;
+  height: 170px;
+  margin: -80px 90px 0px -40px;
+}
+
+.bridgestone_logo_for_pdf {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 280px;
+  height: 100px;
+  margin-right: 40px;
+}
+
+.bandag_logo_for_website_IF-ODD-NUMBER-OF-VENDORS_for_pdf {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 200px;
+  height: 180px;
+  margin-left: 40px;
+  margin-top: -70px;
+}
+
+.title_for_pdf {
+  color: #150400;
+  text-align: center;
+}
+
+.page_title_for_pdf {
+  color: #1d0e0b;
+  text-align: center;
+  font-size: 68px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.page_title_smaller_for_pdf {
+  color: #351C15;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header_for_pdf {
+  background-color: #005f9f;
+  color: white;
+  font-size: 25px;
+}
+
+.numbers_for_pdf {
+  text-align: center;
+}
+
+.text_column_for_pdf {
+  font-size: 22.5px;
+  padding: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center_for_pdf {
+  text-align: center;
+}
+
+.right_align_for_pdf {
+  text-align: right;
+}
+
+.left_align_for_pdf {
+  text-align: left;
+}
+
+.make_white_for_pdf {
+  background-color: white;
+}
+
+.number_column_for_pdf {
+  text-align: right;
+}
+
+.nrt_graph_for_pdf {
+  text-align: center;
+}
+
+.nrt_graph_for_pdf img {
+  width: 1400px;
+  height: 800px;
+}
+
+.nrt_graph_SUMMARY_for_pdf {
+  text-align: center;
+}
+
+.nrt_graph_SUMMARY_for_pdf img {
+  width: 1400px;
+  height: 935px;
+}
+
+.main_table_line_graphs_for_pdf {
+  text-align: center;
+}
+
+.main_table_line_graphs_for_pdf img {
+  width: 1200px;
+  height: 675px;
+}
+
+.sales_percentage_breakdown_bar_for_pdf {
+  text-align: center;
+}
+
+.sales_percentage_breakdown_bar_for_pdf img {
+  width: 1445px;
+  height: 900px;
+  text-align: center;
+}
+
+.fit_three_graphs_on_pdf_page_for_pdf {
+  text-align: center;
+}
+
+.fit_three_graphs_on_pdf_page_for_pdf img {
+  width: 1350px;
+  height: 675px;
+}
+
+.highlight_yellow_for_pdf {
+  background-color: #FFC220;
+}
+
+.NRT_year_to_year_line_graph_for_pdf {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.NRT_year_to_year_line_graph_for_pdf img {
+  width: 1445px;
+  height: 1100px;
+}
+
+.customer_background_color_for_pdf {
+  background-color: customer_color_1;
+}
+
+.NRT_header_for_pdf {
+  font-size: 22px;
+  padding: 3.5px;
+}
+
+.NRT_text_column_for_pdf {
+  font-size: 22.5px;
+  padding: 2.5px;
+}
+
+.customer_color_1_background_for_pdf {
+  background-color: #005f9f;
+}
+
+.customer_color_2_background_for_pdf {
+  background-color: #A6ACAF;
+}
+
+.make_text_white_for_pdf {
+  color: white;
+}
+
+.make_text_black_for_pdf {
+  color: black;
+}
+
+.make_bold_for_pdf {
+  font-weight: bold;
+}
+
+.ROWS_format_category_headers_for_sales_by_store_table_for_pdf {
+  background-color: #A6ACAF;
+  color: white;
+  text-align: left;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.size_of_nrt_header {
+  font-size: 22px;
+}
+/*# sourceMappingURL=main.css.map */
